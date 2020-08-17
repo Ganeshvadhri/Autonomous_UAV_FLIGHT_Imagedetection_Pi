@@ -79,5 +79,5 @@ while True:
         #ax.annotate(str(79.5942),xy=(13.70765,79.5942))
         #plt.text(13.70765,79.5942,'This text starts at point (2,4)')
         plt.show()
-    if box_couunt =5:
+    if box_couunt ==5:
         break;
